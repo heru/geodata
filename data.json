@@ -3,135 +3,135 @@
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 50,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "BANDUNG",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 51,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "BESUKI",
             "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "odp": 23,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "TANGGUNG GUNUNG",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 0,
+            "odp": 22,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KALIDAWIR",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 45,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "PUCANG LABAN",
             "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "odp": 5,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "BOYOLANGU",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 3,
+            "odp": 62,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "REJOTANGAN",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 44,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "SUMBERGEMPOL",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 4,
+            "odp": 39,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGUNUT",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 4,
+            "odp": 31,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 5,
+            "odp": 51,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "PAKEL",
             "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "odp": 135,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "GONDANG",
-            "pdp": 1,
-            "odp": 10,
+            "pdp": 4,
+            "odp": 48,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "TULUNGAGUNG",
-            "pdp": 1,
-            "odp": 10,
+            "pdp": 5,
+            "odp": 35,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "KAUMAN",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 27,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "PAGER WOJO",
-            "pdp": 1,
+            "pdp": 0,
             "odp": 10,
-            "positif": 1,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "SENDANG",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 4,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KARANGREJO",
             "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "odp": 35,
+            "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGANTRU",
-            "pdp": 1,
-            "odp": 10,
-            "positif": 1,
+            "pdp": 2,
+            "odp": 44,
+            "positif": 0,
             "otg": 0
         }
     ]
