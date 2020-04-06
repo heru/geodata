@@ -1,9 +1,9 @@
 {
-    "tanggal": "5 April 2020 19.45 WIB",
+    "tanggal": "6 April 2020 18.10 WIB",
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
-            "pdp": 1,
+            "pdp": 5,
             "odp": 50,
             "positif": 1,
             "otg": 0
@@ -11,7 +11,7 @@
         {
             "kecamatan": "BANDUNG",
             "pdp": 2,
-            "odp": 51,
+            "odp": 52,
             "positif": 0,
             "otg": 0
         },
@@ -45,15 +45,15 @@
         },
         {
             "kecamatan": "BOYOLANGU",
-            "pdp": 3,
-            "odp": 62,
+            "pdp": 4,
+            "odp": 68,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "REJOTANGAN",
             "pdp": 2,
-            "odp": 44,
+            "odp": 45,
             "positif": 0,
             "otg": 0
         },
@@ -67,41 +67,41 @@
         {
             "kecamatan": "NGUNUT",
             "pdp": 4,
-            "odp": 31,
+            "odp": 32,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 3,
-            "odp": 51,
-            "positif": 3,
+            "pdp": 6,
+            "odp": 53,
+            "positif": 2,
             "otg": 0
         },
         {
             "kecamatan": "PAKEL",
-            "pdp": 1,
-            "odp": 135,
+            "pdp": 2,
+            "odp": 138,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "GONDANG",
-            "pdp": 4,
+            "pdp": 5,
             "odp": 48,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "TULUNGAGUNG",
-            "pdp": 4,
+            "pdp": 5,
             "odp": 35,
             "positif": 2,
             "otg": 0
         },
         {
             "kecamatan": "KAUMAN",
-            "pdp": 2,
+            "pdp": 3,
             "odp": 27,
             "positif": 0,
             "otg": 0
@@ -109,27 +109,27 @@
         {
             "kecamatan": "PAGER WOJO",
             "pdp": 0, 
-            "odp": 10,
+            "odp": 14,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "SENDANG",
             "pdp": 2,
-            "odp": 4,
+            "odp": 5,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KARANGREJO",
-            "pdp": 1,
-            "odp": 35,
+            "pdp": 2,
+            "odp": 36,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGANTRU",
-            "pdp": 1,
+            "pdp": 2,
             "odp": 44,
             "positif": 1,
             "otg": 0
