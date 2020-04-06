@@ -3,9 +3,9 @@
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
-            "pdp": 1,
+            "pdp": 2,
             "odp": 50,
-            "positif": 1,
+            "positif": 0,
             "otg": 0
         },
         {
@@ -73,9 +73,9 @@
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 3,
+            "pdp": 5,
             "odp": 51,
-            "positif": 3,
+            "positif": 0,
             "otg": 0
         },
         {
@@ -94,9 +94,9 @@
         },
         {
             "kecamatan": "TULUNGAGUNG",
-            "pdp": 4,
+            "pdp": 5,
             "odp": 35,
-            "positif": 2,
+            "positif": 1,
             "otg": 0
         },
         {
@@ -129,9 +129,9 @@
         },
         {
             "kecamatan": "NGANTRU",
-            "pdp": 1,
+            "pdp": 2,
             "odp": 44,
-            "positif": 1,
+            "positif": 0,
             "otg": 0
         }
     ]
