@@ -1,9 +1,9 @@
 {
-    "tanggal": "8 April 2020 15.22 WIB",
+    "tanggal": "5 April 2020 19.45 WIB",
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
-            "pdp": 9,
+            "pdp": 1,
             "odp": 50,
             "positif": 1,
             "otg": 0
@@ -11,14 +11,14 @@
         {
             "kecamatan": "BANDUNG",
             "pdp": 2,
-            "odp": 60,
+            "odp": 51,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "BESUKI",
             "pdp": 1,
-            "odp": 24,
+            "odp": 23,
             "positif": 0,
             "otg": 0
         },
@@ -31,8 +31,8 @@
         },
         {
             "kecamatan": "KALIDAWIR",
-            "pdp": 4,
-            "odp": 54,
+            "pdp": 2,
+            "odp": 45,
             "positif": 0,
             "otg": 0
         },
@@ -45,92 +45,92 @@
         },
         {
             "kecamatan": "BOYOLANGU",
-            "pdp": 7,
-            "odp": 72,
+            "pdp": 3,
+            "odp": 62,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "REJOTANGAN",
-            "pdp": 4,
-            "odp": 45,
+            "pdp": 2,
+            "odp": 44,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "SUMBERGEMPOL",
-            "pdp": 6,
+            "pdp": 4,
             "odp": 39,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGUNUT",
-            "pdp": 5,
-            "odp": 34,
+            "pdp": 4,
+            "odp": 31,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 6,
-            "odp": 54,
-            "positif": 1,
+            "pdp": 3,
+            "odp": 51,
+            "positif": 3,
             "otg": 0
         },
         {
             "kecamatan": "PAKEL",
-            "pdp": 2,
-            "odp": 139,
+            "pdp": 1,
+            "odp": 135,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "GONDANG",
-            "pdp": 6,
-            "odp": 51,
+            "pdp": 4,
+            "odp": 48,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "TULUNGAGUNG",
-            "pdp": 5,
+            "pdp": 4,
             "odp": 35,
             "positif": 2,
             "otg": 0
         },
         {
             "kecamatan": "KAUMAN",
-            "pdp": 5,
-            "odp": 28,
+            "pdp": 2,
+            "odp": 27,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "PAGER WOJO",
             "pdp": 0, 
-            "odp": 14,
+            "odp": 10,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "SENDANG",
-            "pdp": 3,
-            "odp": 6,
+            "pdp": 2,
+            "odp": 4,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KARANGREJO",
-            "pdp": 2,
-            "odp": 36,
+            "pdp": 1,
+            "odp": 35,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGANTRU",
-            "pdp": 2,
-            "odp": 45,
+            "pdp": 1,
+            "odp": 44,
             "positif": 1,
             "otg": 0
         }

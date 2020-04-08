@@ -1,5 +1,5 @@
 {
-    "tanggal": "8 April 2020 15.22 WIB",
+    "tanggal": "7 April 2020 16.55 WIB",
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
@@ -11,14 +11,14 @@
         {
             "kecamatan": "BANDUNG",
             "pdp": 2,
-            "odp": 60,
+            "odp": 53,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "BESUKI",
             "pdp": 1,
-            "odp": 24,
+            "odp": 23,
             "positif": 0,
             "otg": 0
         },
@@ -31,8 +31,8 @@
         },
         {
             "kecamatan": "KALIDAWIR",
-            "pdp": 4,
-            "odp": 54,
+            "pdp": 3,
+            "odp": 50,
             "positif": 0,
             "otg": 0
         },
@@ -45,8 +45,8 @@
         },
         {
             "kecamatan": "BOYOLANGU",
-            "pdp": 7,
-            "odp": 72,
+            "pdp": 5,
+            "odp": 71,
             "positif": 0,
             "otg": 0
         },
@@ -66,8 +66,8 @@
         },
         {
             "kecamatan": "NGUNUT",
-            "pdp": 5,
-            "odp": 34,
+            "pdp": 4,
+            "odp": 32,
             "positif": 0,
             "otg": 0
         },
@@ -87,8 +87,8 @@
         },
         {
             "kecamatan": "GONDANG",
-            "pdp": 6,
-            "odp": 51,
+            "pdp": 5,
+            "odp": 48,
             "positif": 0,
             "otg": 0
         },
@@ -101,8 +101,8 @@
         },
         {
             "kecamatan": "KAUMAN",
-            "pdp": 5,
-            "odp": 28,
+            "pdp": 3,
+            "odp": 27,
             "positif": 0,
             "otg": 0
         },
