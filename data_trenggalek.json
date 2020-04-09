@@ -1,143 +1,101 @@
 {
-    "tanggal": "9 April 2020 14.30 WIB",
+    "tanggal": "9 April 2020 15.00 WIB",
     "data": [
         {
-            "kecamatan": "CAMPUR DARAT",
-            "pdp": 9,
-            "odp": 50,
-            "positif": 1,
-            "otg": 0
-        },
-        {
-            "kecamatan": "BANDUNG",
-            "pdp": 2,
-            "odp": 61,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "BESUKI",
-            "pdp": 1,
-            "odp": 24,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "TANGGUNG GUNUNG",
+            "kecamatan": "BENDUNGAN",
             "pdp": 0,
-            "odp": 22,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "KALIDAWIR",
-            "pdp": 4,
-            "odp": 54,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "PUCANG LABAN",
-            "pdp": 1,
-            "odp": 5,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "BOYOLANGU",
-            "pdp": 7,
-            "odp": 72,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "REJOTANGAN",
-            "pdp": 4,
-            "odp": 45,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "SUMBERGEMPOL",
-            "pdp": 6,
-            "odp": 39,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "NGUNUT",
-            "pdp": 5,
             "odp": 34,
             "positif": 0,
             "otg": 0
         },
         {
-            "kecamatan": "KEDUNGWARU",
-            "pdp": 6,
-            "odp": 54,
-            "positif": 1,
-            "otg": 0
-        },
-        {
-            "kecamatan": "PAKEL",
-            "pdp": 2,
-            "odp": 139,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "GONDANG",
-            "pdp": 6,
-            "odp": 51,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "TULUNGAGUNG",
-            "pdp": 5,
-            "odp": 36,
-            "positif": 2,
-            "otg": 0
-        },
-        {
-            "kecamatan": "KAUMAN",
-            "pdp": 5,
-            "odp": 28,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "PAGER WOJO",
-            "pdp": 0, 
-            "odp": 14,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "SENDANG",
-            "pdp": 3,
-            "odp": 6,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "KARANGREJO",
-            "pdp": 2,
-            "odp": 36,
-            "positif": 0,
-            "otg": 0
-        },
-        {
-            "kecamatan": "NGANTRU",
-            "pdp": 2,
+            "kecamatan": "TUGU",
+            "pdp": 1,
             "odp": 45,
             "positif": 1,
             "otg": 0
         },
         {
-            "kecamatan": "LUAR WILAYAH",
-            "pdp": 24,
-            "odp": 43,
+            "kecamatan": "TRENGGALEK",
+            "pdp": 3,
+            "odp": 25,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KARANGAN",
+            "pdp": 0,
+            "odp": 32,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "POGALAN",
+            "pdp": 0,
+            "odp": 75,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "DURENAN",
+            "pdp": 2,
+            "odp": 46,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "GANDUSARI",
+            "pdp": 1,
+            "odp": 31,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SURUH",
+            "pdp": 0,
+            "odp": 30,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PULE",
+            "pdp": 0,
+            "odp": 49,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KAMPAK",
+            "pdp": 0,
+            "odp": 27,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "WATULIMO",
+            "pdp": 0,
+            "odp": 35,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "MUNJUNGAN",
+            "pdp": 0,
+            "odp": 56,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "DONGKO",
+            "pdp": 1,
+            "odp": 77,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PANGGUL",
+            "pdp": 0,
+            "odp": 67,
             "positif": 0,
             "otg": 0
         }
