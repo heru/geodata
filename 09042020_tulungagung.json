@@ -1,5 +1,5 @@
 {
-    "tanggal": "10 April 2020 15:30 WIB",
+    "tanggal": "9 April 2020 19:00 WIB",
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
@@ -10,14 +10,14 @@
         },
         {
             "kecamatan": "BANDUNG",
-            "pdp": 4,
+            "pdp": 2,
             "odp": 61,
             "positif": 2,
             "otg": 0
         },
         {
             "kecamatan": "BESUKI",
-            "pdp": 2,
+            "pdp": 1,
             "odp": 24,
             "positif": 0,
             "otg": 0
@@ -59,28 +59,28 @@
         },
         {
             "kecamatan": "SUMBERGEMPOL",
-            "pdp": 8,
-            "odp": 40,
+            "pdp": 6,
+            "odp": 39,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGUNUT",
             "pdp": 5,
-            "odp": 35,
+            "odp": 34,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 7,
+            "pdp": 6,
             "odp": 54,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "PAKEL",
-            "pdp": 4,
+            "pdp": 2,
             "odp": 139,
             "positif": 0,
             "otg": 0
@@ -129,14 +129,14 @@
         },
         {
             "kecamatan": "NGANTRU",
-            "pdp": 4,
+            "pdp": 2,
             "odp": 45,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "LUAR WILAYAH",
-            "pdp": 26,
+            "pdp": 24,
             "odp": 43,
             "positif": 0,
             "otg": 0

@@ -1,0 +1,103 @@
+{
+    "tanggal": "9 April 2020 15.00 WIB",
+    "data": [
+        {
+            "kecamatan": "BENDUNGAN",
+            "pdp": 0,
+            "odp": 34,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "TUGU",
+            "pdp": 1,
+            "odp": 45,
+            "positif": 1,
+            "otg": 0
+        },
+        {
+            "kecamatan": "TRENGGALEK",
+            "pdp": 3,
+            "odp": 25,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KARANGAN",
+            "pdp": 0,
+            "odp": 32,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "POGALAN",
+            "pdp": 0,
+            "odp": 75,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "DURENAN",
+            "pdp": 2,
+            "odp": 46,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "GANDUSARI",
+            "pdp": 1,
+            "odp": 31,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SURUH",
+            "pdp": 0,
+            "odp": 30,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PULE",
+            "pdp": 0,
+            "odp": 49,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KAMPAK",
+            "pdp": 0,
+            "odp": 27,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "WATULIMO",
+            "pdp": 0,
+            "odp": 35,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "MUNJUNGAN",
+            "pdp": 0,
+            "odp": 56,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "DONGKO",
+            "pdp": 1,
+            "odp": 77,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PANGGUL",
+            "pdp": 0,
+            "odp": 67,
+            "positif": 0,
+            "otg": 0
+        }
+    ]
+}
