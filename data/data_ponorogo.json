@@ -1,0 +1,159 @@
+{
+    "tanggal": "10 April 2020 17:31 WIB",
+    "data": [
+        {
+            "kecamatan": "JETIS",
+            "pdp": 1,
+            "odp": 19,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BALONG",
+            "pdp": 1,
+            "odp": 14,
+            "positif": 3,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SLAHUNG",
+            "pdp": 0,
+            "odp": 0,
+            "positif": 2,
+            "otg": 6
+        },
+        {
+            "kecamatan": "NGRAYUN",
+            "pdp": 0,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BUNGKAL",
+            "pdp": 0,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PUCANG LABAN",
+            "pdp": 1,
+            "odp": 5,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SAMBIT",
+            "pdp": 0,
+            "odp": 19,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SAWOO",
+            "pdp": 0,
+            "odp": 21,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SOOKO",
+            "pdp": 0,
+            "odp": 5,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "MLARAK",
+            "pdp": 2,
+            "odp": 10,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "JAMBON",
+            "pdp": 1,
+            "odp": 21,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BADEGAN",
+            "pdp": 1,
+            "odp": 9,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KAUMAN",
+            "pdp": 11,
+            "odp": 0,
+            "positif": 0,
+            "otg": 1
+        },
+        {
+            "kecamatan": "SAMPUNG",
+            "pdp": 1,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PONOROGO",
+            "pdp": 4,
+            "odp": 63,
+            "positif": 1,
+            "otg": 5
+        },
+        {
+            "kecamatan": "SUKOREJO",
+            "pdp": 2, 
+            "odp": 10,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BABADAN",
+            "pdp": 1,
+            "odp": 15,
+            "positif": 0,
+            "otg": 6
+        },
+        {
+            "kecamatan": "SIMAN",
+            "pdp": 1,
+            "odp": 41,
+            "positif": 0,
+            "otg": 2
+        },
+        {
+            "kecamatan": "JENANGAN",
+            "pdp": 1,
+            "odp": 12,
+            "positif": 0,
+            "otg": 1
+        },
+        {
+            "kecamatan": "PULUNG",
+            "pdp": 1,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NGEBEL",
+            "pdp": 0,
+            "odp": 1,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PUDAK",
+            "pdp": 0,
+            "odp": 0,
+            "positif": 0,
+            "otg": 0
+        }
+    ]
+}
