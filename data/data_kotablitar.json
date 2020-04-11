@@ -1,0 +1,26 @@
+{
+    "tanggal": "11 April 2020 19.38 WIB",
+    "data": [
+        {
+            "kecamatan": "KEPANJEN KIDUL",
+            "pdp": 0,
+            "odp": 41,
+            "positif": 0,
+            "otg": 6
+        },
+        {
+            "kecamatan": "SANAN WETAN",
+            "pdp": 2,
+            "odp": 58,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SUKOREJO",
+            "pdp": 0,
+            "odp": 48,
+            "positif": 1,
+            "otg": 7
+        }
+    ]
+}
