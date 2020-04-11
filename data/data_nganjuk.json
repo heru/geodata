@@ -1,0 +1,159 @@
+{
+    "tanggal": "10 April 2020 17:31 WIB",
+    "data": [
+        {
+            "kecamatan": "UDANAWU",
+            "pdp": 1,
+            "odp": 27,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "WONODADI",
+            "pdp": 2,
+            "odp": 11,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SRENGAT",
+            "pdp": 1,
+            "odp": 29,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KADEMANGAN",
+            "pdp": 1,
+            "odp": 32,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BAKUNG",
+            "pdp": 10,
+            "odp": 0,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "WONOTIRTO",
+            "pdp": 0,
+            "odp": 22,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SUTOJAYAN",
+            "pdp": 0,
+            "odp": 33,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PANGGUNGREJO",
+            "pdp": 0,
+            "odp": 7,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "WATES",
+            "pdp": 0,
+            "odp": 17,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BINANGUN",
+            "pdp": 0,
+            "odp": 7,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SANANKULON",
+            "pdp": 0,
+            "odp": 11,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KANIGORO",
+            "pdp": 0,
+            "odp": 19,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "GARUM",
+            "pdp": 0,
+            "odp": 25,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "TALUN",
+            "pdp": 0,
+            "odp": 37,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SELOPURO",
+            "pdp": 0,
+            "odp": 40,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KESAMBEN",
+            "pdp": 0, 
+            "odp": 19,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SELOREJO",
+            "pdp": 0,
+            "odp": 3,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "WLINGI",
+            "pdp": 0,
+            "odp": 62,
+            "positif": 0,
+            "otg": 1
+        },
+        {
+            "kecamatan": "DOKO",
+            "pdp": 0,
+            "odp": 21,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "GANDUSARI",
+            "pdp": 0,
+            "odp": 50,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NGLEGOK",
+            "pdp": 0,
+            "odp": 32,
+            "positif": 1,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PONGGOK",
+            "pdp": 2,
+            "odp": 57,
+            "positif": 0,
+            "otg": 0
+        }
+    ]
+}

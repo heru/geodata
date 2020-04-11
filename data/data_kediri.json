@@ -1,0 +1,187 @@
+{
+    "tanggal": "10 April 2020 17:31 WIB",
+    "data": [
+        {
+            "kecamatan": "SEMEN",
+            "pdp": 1,
+            "odp": 2,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "TAROKAN",
+            "pdp": 0,
+            "odp": 5,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "GROGOL",
+            "pdp": 0,
+            "odp": 2,
+            "positif": 0,
+            "otg": 33
+        },
+        {
+            "kecamatan": "BANYAKAN",
+            "pdp": 0,
+            "odp": 6,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "MOJO",
+            "pdp": 0,
+            "odp": 16,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KRAS",
+            "pdp": 0,
+            "odp": 50,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "RINGINREJO",
+            "pdp": 0,
+            "odp": 14,
+            "positif": 1,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NGADILUWIH",
+            "pdp": 1,
+            "odp": 23,
+            "positif": 1,
+            "otg": 14
+        },
+        {
+            "kecamatan": "WATES",
+            "pdp": 0,
+            "odp": 9,
+            "positif": 0,
+            "otg": 2
+        },
+        {
+            "kecamatan": "KANDAT",
+            "pdp": 0,
+            "odp": 28,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NGANCAR",
+            "pdp": 0,
+            "odp": 3,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PLOSOKLATEN",
+            "pdp": 1,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PUNCU",
+            "pdp": 3,
+            "odp": 0,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KEPUNG",
+            "pdp": 1,
+            "odp": 11,
+            "positif": 0,
+            "otg": 2
+        },
+        {
+            "kecamatan": "KANDANGAN",
+            "pdp": 0,
+            "odp": 28,
+            "positif": 0,
+            "otg": 2
+        },
+        {
+            "kecamatan": "GURAH",
+            "pdp": 1, 
+            "odp": 19,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NGASEM",
+            "pdp": 3,
+            "odp": 33,
+            "positif": 1,
+            "otg": 1
+        },
+        {
+            "kecamatan": "GAMPENGREJO",
+            "pdp": 1,
+            "odp": 8,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PAGU",
+            "pdp": 0,
+            "odp": 4,
+            "positif": 1,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KAYENKIDUL",
+            "pdp": 3,
+            "odp": 10,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PARE",
+            "pdp": 3,
+            "odp": 21,
+            "positif": 6,
+            "otg": 136
+        },
+        {
+            "kecamatan": "BADAS",
+            "pdp": 2,
+            "odp": 5,
+            "positif": 0,
+            "otg": 1
+        },
+        {
+            "kecamatan": "PLEMAHAN",
+            "pdp": 1,
+            "odp": 1,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PAPAR",
+            "pdp": 0,
+            "odp": 10,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KUNJANG",
+            "pdp": 0,
+            "odp": 6,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PURWOASRI",
+            "pdp": 0,
+            "odp": 32,
+            "positif": 0,
+            "otg": 0
+        }
+    ]
+}
