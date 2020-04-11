@@ -1,5 +1,5 @@
 {
-    "tanggal": "10 April 2020 17:31 WIB",
+    "tanggal": "11 April 2020 19:10 WIB",
     "data": [
         {
             "kecamatan": "DONOROJO",
@@ -17,10 +17,10 @@
         },
         {
             "kecamatan": "PACITAN",
-            "pdp": 79,
+            "pdp": 80,
             "odp": 2,
             "positif": 1,
-            "otg": 3
+            "otg": 0
         },
         {
             "kecamatan": "KEBONAGUNG",
@@ -32,9 +32,9 @@
         {
             "kecamatan": "TULAKAN",
             "pdp": 0,
-            "odp": 63,
+            "odp": 64,
             "positif": 0,
-            "otg": 1
+            "otg": 0
         },
         {
             "kecamatan": "NGADIROJO",
@@ -67,7 +67,7 @@
         {
             "kecamatan": "NAWANGAN",
             "pdp": 0,
-            "odp": 54,
+            "odp": 55,
             "positif": 0,
             "otg": 0
         },
@@ -83,7 +83,7 @@
             "pdp": 0,
             "odp": 48,
             "positif": 0,
-            "otg": 5
+            "otg": 0
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
-    "tanggal": "10 April 2020 17:31 WIB",
+    "tanggal": "11 April 2020 19:12 WIB",
     "data": [
         {
             "kecamatan": "SEMEN",
-            "pdp": 1,
+            "pdp": 2,
             "odp": 2,
             "positif": 0,
             "otg": 0
@@ -109,7 +109,7 @@
         {
             "kecamatan": "GURAH",
             "pdp": 1, 
-            "odp": 19,
+            "odp": 10,
             "positif": 0,
             "otg": 0
         },
