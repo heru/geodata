@@ -45,7 +45,7 @@
         },
         {
             "kecamatan": "BOYOLANGU",
-            "pdp": 8,
+            "pdp": 7,
             "odp": 72,
             "positif": 0,
             "otg": 0
@@ -59,21 +59,21 @@
         },
         {
             "kecamatan": "SUMBERGEMPOL",
-            "pdp": 9,
+            "pdp": 8,
             "odp": 40,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "NGUNUT",
-            "pdp": 6,
+            "pdp": 5,
             "odp": 35,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 9,
+            "pdp": 7,
             "odp": 54,
             "positif": 1,
             "otg": 0
@@ -81,20 +81,20 @@
         {
             "kecamatan": "PAKEL",
             "pdp": 4,
-            "odp": 141,
+            "odp": 139,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "GONDANG",
             "pdp": 6,
-            "odp": 52,
+            "odp": 51,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "TULUNGAGUNG",
-            "pdp": 6,
+            "pdp": 5,
             "odp": 36,
             "positif": 2,
             "otg": 0
@@ -129,15 +129,15 @@
         },
         {
             "kecamatan": "NGANTRU",
-            "pdp": 5,
+            "pdp": 4,
             "odp": 45,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "LUAR WILAYAH",
-            "pdp": 29,
-            "odp": 45,
+            "pdp": 26,
+            "odp": 43,
             "positif": 0,
             "otg": 0
         }
