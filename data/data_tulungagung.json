@@ -45,14 +45,14 @@
         },
         {
             "kecamatan": "BOYOLANGU",
-            "pdp": 8,
+            "pdp": 7,
             "odp": 76,
-            "positif": 0,
+            "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "REJOTANGAN",
-            "pdp": 4,
+            "pdp": 5,
             "odp": 45,
             "positif": 0,
             "otg": 0
@@ -66,9 +66,9 @@
         },
         {
             "kecamatan": "NGUNUT",
-            "pdp": 6,
+            "pdp": 5,
             "odp": 41,
-            "positif": 0,
+            "positif": 1,
             "otg": 0
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "kecamatan": "GONDANG",
-            "pdp": 6,
+            "pdp": 5,
             "odp": 53,
-            "positif": 0,
+            "positif": 1,
             "otg": 0
         },
         {
