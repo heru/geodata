@@ -1,0 +1,89 @@
+{
+    "tanggal": "11 April 2020 19:10 WIB",
+    "data": [
+        {
+            "kecamatan": "DONOROJO",
+            "pdp": 0,
+            "odp": 63,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PRINGKUKU",
+            "pdp": 1,
+            "odp": 23,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PACITAN",
+            "pdp": 80,
+            "odp": 2,
+            "positif": 1,
+            "otg": 0
+        },
+        {
+            "kecamatan": "KEBON AGUNG",
+            "pdp": 0,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "TULAKAN",
+            "pdp": 0,
+            "odp": 64,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NGADIROJO",
+            "pdp": 1,
+            "odp": 23,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "SUDIMORO",
+            "pdp": 0,
+            "odp": 22,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "PUNUNG",
+            "pdp": 0,
+            "odp": 44,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "ARJOSARI",
+            "pdp": 0,
+            "odp": 13,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "NAWANGAN",
+            "pdp": 0,
+            "odp": 55,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "BANDAR",
+            "pdp": 0,
+            "odp": 14,
+            "positif": 0,
+            "otg": 0
+        },
+        {
+            "kecamatan": "TEGALOMBO",
+            "pdp": 0,
+            "odp": 48,
+            "positif": 0,
+            "otg": 0
+        }
+    ]
+}

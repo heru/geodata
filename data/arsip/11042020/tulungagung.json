@@ -1,10 +1,10 @@
 {
-    "tanggal": "12 April 2020 14:44 WIB",
+    "tanggal": "11 April 2020 15:00 WIB",
     "data": [
         {
             "kecamatan": "CAMPUR DARAT",
             "pdp": 9,
-            "odp": 51,
+            "odp": 50,
             "positif": 1,
             "otg": 0
         },
@@ -32,7 +32,7 @@
         {
             "kecamatan": "KALIDAWIR",
             "pdp": 4,
-            "odp": 55,
+            "odp": 54,
             "positif": 0,
             "otg": 0
         },
@@ -46,7 +46,7 @@
         {
             "kecamatan": "BOYOLANGU",
             "pdp": 8,
-            "odp": 76,
+            "odp": 72,
             "positif": 0,
             "otg": 0
         },
@@ -67,20 +67,20 @@
         {
             "kecamatan": "NGUNUT",
             "pdp": 6,
-            "odp": 41,
+            "odp": 35,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "KEDUNGWARU",
-            "pdp": 10,
-            "odp": 59,
+            "pdp": 9,
+            "odp": 54,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "PAKEL",
-            "pdp": 5,
+            "pdp": 4,
             "odp": 141,
             "positif": 0,
             "otg": 0
@@ -88,14 +88,14 @@
         {
             "kecamatan": "GONDANG",
             "pdp": 6,
-            "odp": 53,
+            "odp": 52,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "TULUNGAGUNG",
-            "pdp": 7,
-            "odp": 38,
+            "pdp": 6,
+            "odp": 36,
             "positif": 2,
             "otg": 0
         },
@@ -130,13 +130,13 @@
         {
             "kecamatan": "NGANTRU",
             "pdp": 5,
-            "odp": 49,
+            "odp": 45,
             "positif": 1,
             "otg": 0
         },
         {
             "kecamatan": "LUAR WILAYAH",
-            "pdp": 31,
+            "pdp": 29,
             "odp": 45,
             "positif": 0,
             "otg": 0
