@@ -1,17 +1,17 @@
 {
-    "tanggal": "11 April 2020 19.06 WIB",
+    "tanggal": "11 April 2020 21.29 WIB",
     "data": [
         {
             "kecamatan": "BENDUNGAN",
             "pdp": 1,
-            "odp": 42,
+            "odp": 43,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "TUGU",
             "pdp": 1,
-            "odp": 52,
+            "odp": 53,
             "positif": 1,
             "otg": 0
         },
@@ -39,14 +39,14 @@
         {
             "kecamatan": "DURENAN",
             "pdp": 2,
-            "odp": 47,
+            "odp": 50,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "GANDUSARI",
             "pdp": 1,
-            "odp": 31,
+            "odp": 32,
             "positif": 0,
             "otg": 0
         },
@@ -74,28 +74,28 @@
         {
             "kecamatan": "WATULIMO",
             "pdp": 0,
-            "odp": 35,
+            "odp": 36,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "MUNJUNGAN",
             "pdp": 0,
-            "odp": 58,
+            "odp": 62,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "DONGKO",
             "pdp": 1,
-            "odp": 78,
+            "odp": 79,
             "positif": 0,
             "otg": 0
         },
         {
             "kecamatan": "PANGGUL",
             "pdp": 0,
-            "odp": 71,
+            "odp": 74,
             "positif": 0,
             "otg": 0
         }
